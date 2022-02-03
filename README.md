@@ -4,7 +4,7 @@
 
 ## Prerequisites:
   Framework Hugo.
-  Commandes make.
+  Command make.
   
  ## Lifecycle:
   Command `hugo server -D` for lancing the server.
